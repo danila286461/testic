@@ -1,2 +1,2 @@
 up: 
-	docker rm -f nginx && docker-compose up -d
+	docker-compose up -d
